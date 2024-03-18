@@ -59,6 +59,6 @@ module.exports = { getWordByIndex, checkWord };
 
 
 
-// I started from a little program i made 2 years ago  and started to change and add things until i reached this code .
+// I started from a little program i had from 2 years ago  and started to change and add things until i reached this code .
 
 // https://replit.com/@William86/Meny#Main.cs
